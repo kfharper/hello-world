@@ -1,4 +1,4 @@
 # hello-world
 Introductory tutorial
 
-I want to try github to help create my website and also need a wysiwyg editor
+I want to understand if github can help create my website.  I think I also need a wysiwyg editor.
